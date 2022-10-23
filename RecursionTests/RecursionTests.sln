@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionTests", "RecursionTests\RecursionTests.csproj", "{A374AD75-CE79-49E7-9E1E-59E7394CE801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A374AD75-CE79-49E7-9E1E-59E7394CE801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A374AD75-CE79-49E7-9E1E-59E7394CE801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A374AD75-CE79-49E7-9E1E-59E7394CE801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A374AD75-CE79-49E7-9E1E-59E7394CE801}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5823E823-01BE-4694-8153-394CD73D6C12}
+	EndGlobalSection
+EndGlobal
