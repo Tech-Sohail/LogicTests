@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sohail/Desktop/_projects/Repositories/LogicTests/RecursionTests/RecursionTests/RecursionTests.csproj": {}
+    "/Users/sohail/Desktop/_projects/LogicTests/RecursionTests/RecursionTests/RecursionTests.csproj": {}
   },
   "projects": {
-    "/Users/sohail/Desktop/_projects/Repositories/LogicTests/RecursionTests/RecursionTests/RecursionTests.csproj": {
+    "/Users/sohail/Desktop/_projects/LogicTests/RecursionTests/RecursionTests/RecursionTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sohail/Desktop/_projects/Repositories/LogicTests/RecursionTests/RecursionTests/RecursionTests.csproj",
+        "projectUniqueName": "/Users/sohail/Desktop/_projects/LogicTests/RecursionTests/RecursionTests/RecursionTests.csproj",
         "projectName": "RecursionTests",
-        "projectPath": "/Users/sohail/Desktop/_projects/Repositories/LogicTests/RecursionTests/RecursionTests/RecursionTests.csproj",
+        "projectPath": "/Users/sohail/Desktop/_projects/LogicTests/RecursionTests/RecursionTests/RecursionTests.csproj",
         "packagesPath": "/Users/sohail/.nuget/packages/",
-        "outputPath": "/Users/sohail/Desktop/_projects/Repositories/LogicTests/RecursionTests/RecursionTests/obj/",
+        "outputPath": "/Users/sohail/Desktop/_projects/LogicTests/RecursionTests/RecursionTests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sohail/.nuget/NuGet/NuGet.Config"
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }
