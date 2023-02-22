@@ -142,6 +142,7 @@ namespace LogicTests
 		DepthLevel4 = 10,
 		DepthLevel5 = 11,
 		DepthLevel6 = 12,
+		DepthLevel7 = 13,
 	}
 
 	public class Authorization
